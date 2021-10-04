@@ -1,0 +1,15 @@
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\bin\Debug\netstandard2.0\TP01_Xamarin.deps.json
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\bin\Debug\netstandard2.0\TP01_Xamarin.dll
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\bin\Debug\netstandard2.0\ref\TP01_Xamarin.dll
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\bin\Debug\netstandard2.0\TP01_Xamarin.pdb
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\obj\Debug\netstandard2.0\TP01_Xamarin.csproj.AssemblyReference.cache
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\obj\Debug\netstandard2.0\TP01_Xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\obj\Debug\netstandard2.0\TP01_Xamarin.AssemblyInfoInputs.cache
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\obj\Debug\netstandard2.0\TP01_Xamarin.AssemblyInfo.cs
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\obj\Debug\netstandard2.0\TP01_Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\obj\Debug\netstandard2.0\TP01_Xamarin.dll
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\obj\Debug\netstandard2.0\ref\TP01_Xamarin.dll
+C:\Users\Sistely\source\repos\TP01_Xamarin\TP01_Xamarin\TP01_Xamarin\obj\Debug\netstandard2.0\TP01_Xamarin.pdb
